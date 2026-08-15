@@ -7,4 +7,5 @@ reducing manual screening time by 50%.
 
 • Applied TF-IDF vectorization, keyword extraction, and skill-match scoring; achieved 87% classification accuracy across
 6 job roles using Logistic Regression, SVM, and Gradient Boosting ensemble.
+
 • Implemented a ranking mechanism to score resumes against job descriptions, enabling structured shortlisting for HR teams
